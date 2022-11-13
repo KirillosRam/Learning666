@@ -22,6 +22,6 @@ git add - -all
 git add <file_name>
 
 #Create a COMMIT with comment
-git commit -m "<comment>"
+git commit -m "<Creation of commit>"
 
 
