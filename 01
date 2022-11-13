@@ -1,0 +1,27 @@
+#Установка имени пользователя
+git config - -global user.name"<Kirillos_Ramshevich>" 
+
+#Установка email
+git cinfig - -global user.email"<kirillos.ramshevich@proton.me>"
+
+#Create the path to the project
+cd <E://LernIT>
+
+
+
+#Initialisatiom or creation of repository
+git int
+
+#add all files of project to COMMIT
+git add .
+
+#OR (2nd way)
+git add - -all
+
+#Add a defenite file
+git add <file_name>
+
+#Create a COMMIT with comment
+git commit -m "<comment>"
+
+
